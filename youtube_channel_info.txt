@@ -2,39 +2,39 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",中天新闻
+中天新闻 |台湾||
 https://www.youtube.com/watch?v=_QbRXRnHMVY
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="YouTube直播",民视新闻
+民視新聞 |台湾||
 https://www.youtube.com/watch?v=ylYJSBUgaMA
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="YouTube直播",TVBS新闻
+TVBS新聞 |台湾||
 https://www.youtube.com/watch?v=Zp0qMf_n6oc
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="YouTube直播",台视新闻
+台視新聞 |台湾||
 https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立海外
+三立海外 |台湾||
 https://www.youtube.com/watch?v=zToq8XvEhJM
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="YouTube直播",东森财经
+東森財經 |台湾||
 https://www.youtube.com/watch?v=WHEPzbFA3hw
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="YouTube直播",寰宇新闻
+寰宇新聞 |台湾||
 https://www.youtube.com/watch?v=B7Zp3d6xXWw
-#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="YouTube直播",三立 iNEWS
+三立 iNEWS |台湾||
 https://www.youtube.com/watch?v=CKjSm5ZeehE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",镜新闻
+鏡新聞 |台湾||
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="YouTube直播",公视
+公視 |台湾||
 https://www.youtube.com/watch?v=4Uc00FPs27M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV-Drama2
+GTV-Drama2 |台湾||
 https://www.youtube.com/watch?v=enfzhjNw3M8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视新闻
+華視新聞 |台湾||
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
+台視 |台湾||
 https://www.youtube.com/watch?v=uDqQo8a7Xmk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立华剧
+三立華劇 |台湾||
 https://www.youtube.com/watch?v=jtgYMh6ngcU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
+GTV八大电视 |台湾||
 https://www.youtube.com/watch?v=_MOhQbKegXs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV-Drama1
+GTV-Drama1 |台湾||
 https://www.youtube.com/watch?v=y_umrPgEug8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
+華視綜藝 |台湾||
 https://www.youtube.com/watch?v=GY2pvOnOjpA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",亲亲2o音乐LîvË【中文音乐】
+親親2o音樂LîvË【中文音樂】 |台湾||
 https://www.youtube.com/watch?v=wrYF0HX7Kzc
