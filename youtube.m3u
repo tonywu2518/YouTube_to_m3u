@@ -11,39 +11,56 @@
 #########################################################################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",中天新闻
-https://www.youtube.com/watch?v=_QbRXRnHMVY
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="YouTube直播",民视新闻
-https://www.youtube.com/watch?v=ylYJSBUgaMA
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="YouTube直播",TVBS新闻
-https://www.youtube.com/watch?v=Zp0qMf_n6oc
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="YouTube直播",台视新闻
-https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立海外
-https://www.youtube.com/watch?v=zToq8XvEhJM
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="YouTube直播",东森财经
-https://www.youtube.com/watch?v=WHEPzbFA3hw
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="YouTube直播",寰宇新闻
-https://www.youtube.com/watch?v=B7Zp3d6xXWw
-#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="YouTube直播",三立 iNEWS
-https://www.youtube.com/watch?v=CKjSm5ZeehE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",镜新闻
-https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="YouTube直播",公视
-https://www.youtube.com/watch?v=4Uc00FPs27M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV-Drama2
-https://www.youtube.com/watch?v=enfzhjNw3M8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视新闻
-https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
-https://www.youtube.com/watch?v=uDqQo8a7Xmk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立华剧
-https://www.youtube.com/watch?v=jtgYMh6ngcU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
-https://www.youtube.com/watch?v=_MOhQbKegXs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV-Drama1
-https://www.youtube.com/watch?v=y_umrPgEug8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
-https://www.youtube.com/watch?v=GY2pvOnOjpA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",亲亲2o音乐LîvË【中文音乐】
-https://www.youtube.com/watch?v=wrYF0HX7Kzc
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 中天新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676977260/ei/DFD0Y6bKCfjDlu8Pkt-L8Ac/ip/13.86.22.113/id/_QbRXRnHMVY.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKETJg3dcN2iw7nPzT-1c_ML4W2dSKG89y0QqjcbpkZgCIGiWFV4f4X_QDJRLYAUDW5PUifTpc9FBz5HSfZVwQqxq/file/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 民視新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676977260/ei/DFD0Y5b8KLmOlu8PisSPwAg/ip/13.86.22.113/id/ylYJSBUgaMA.3/source/yt_live_broadcast/requiressl/yes/tx/24429555/txs/24249503%2C24429555%2C24435245/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOELt_oYvBFuMHquebDyjh9rze71UX1x_9qgdGoVUexqAiBOHT6Ujo9oi_mNWEXcBTka1pneGOJlRpWyKwo70Z7V6w%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", TVBS新聞
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 台視新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676977262/ei/DlD0Y5mgG9f_2_gPjP6FkA0/ip/13.86.22.113/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/tx/24452303/txs/24452300%2C24452301%2C24452302%2C24452303/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgefWHni-iEjyTw5qn_0fz_s9tR6gKYq2CR1iaSjLh5l4CIQCU-Y_ZwImrfyWQ2PmvMDuC-qolbke1x-ZPzzEgGgeSqA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 三立海外
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 東森財經
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676977264/ei/EFD0Y_-4G9C-lu8P6rSkiAc/ip/13.86.22.113/id/WHEPzbFA3hw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIibYPrfWnsQnEogWYtGK4LZoGuctC4VmjMV7Q1gtG0qAiEAmzUGzqF2Gig-g5Ul6saUgOZ3gFZu5IWivQ5qx4DGmok%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 寰宇新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676977265/ei/EVD0Y7bxA9SD6QKVw6uYDQ/ip/13.86.22.113/id/B7Zp3d6xXWw.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANc7Jq2veQDOwQp5LLc6h8VMjahEgSz3CwFE7i8b4jTBAiBFgGlt8fp6vBF0YrGgEB_0DwteAvn-uVxgK8sbuARo4A%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 三立 iNEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676977265/ei/EVD0Y82yJ8KEjQSAk62QAw/ip/13.86.22.113/id/CKjSm5ZeehE.85/source/yt_live_broadcast/requiressl/yes/tx/24452303/txs/24452300%2C24452301%2C24452302%2C24452303/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSChMyO8p8vMWwu12XU2pt3ZZ2l1XeXdel3MMZ4QTJFgCIQChY8D7me9El_N3kkhm0nA7wLKgHHx9slD6bwNcwsndNg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 鏡新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676977266/ei/ElD0Y_CxDJXrlu8P462rwAo/ip/13.86.22.113/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfuHTiRw5xaxSZD2wi2kGpXNfF3ItXGJqY5zG606FH7gCIQC0OA7tdWEiC07UBCBJTopaXyFuoyimBKiZIcJPMvoPFw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 公視
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", GTV-Drama2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676977268/ei/E1D0Y4rHNsKEjQSAk62QAw/ip/13.86.22.113/id/enfzhjNw3M8.4/source/yt_live_broadcast/requiressl/yes/tx/24451288/txs/24451286%2C24451287%2C24451288%2C24451289/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANmDrmWaDqZRE-7rbw-E327oUDVjoYIZXaQFhG1jDtNEAiAD4ct2Li3heNjj4HkhSaM5iq59-f_kt-Dy02Uqr7HRRQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 華視新聞
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 台視
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 三立華劇
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676977270/ei/FlD0Y-avKoPt2_gPgNK_gA8/ip/13.86.22.113/id/jtgYMh6ngcU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLt-lZjbxvp_Ct-BsoD4WobyP-qSSL9vbNevuXWCLmzwCIBW7RLuW4o0QBZX27uL5bVKIN6SN4v8sfD-2OyHH4bsS/file/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", GTV八大电视
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", GTV-Drama1
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 華視綜藝
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 親親2o音樂LîvË【中文音樂】
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676977274/ei/GlD0Y7q-AsnyuQKKiYKABg/ip/13.86.22.113/id/wrYF0HX7Kzc.7/source/yt_live_broadcast/requiressl/yes/tx/24428414/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIC5I6gw7s3a5TGwlrPTVJi_WI3mq73m6xnYk40vGRHeAiB3q53UFRsVjOSiqkZFXLH2hhr3MdllBl1vDxmL92wChQ%3D%3D/file/index.m3u8
